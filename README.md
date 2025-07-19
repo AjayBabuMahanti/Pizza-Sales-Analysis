@@ -7,12 +7,12 @@ The goal of this project is to analyze key performance indicators (KPIs) from pi
 
 ---
 
-# 📊 KPIs Tracked      KPI	Value
+# 📊 KPIs Tracked   and   KPI	Value
 
-Total Revenue	           $818K
-Average Order Value	     $38.31
-Total Pizzas Sold     	 49,574
-Total Orders	           21,350
+Total Revenue	           $818K/
+Average Order Value	     $38.31/
+Total Pizzas Sold     	 49,574/
+Total Orders	           21,350/
 Average Pizzas/Order	   2.32
 
 ---
